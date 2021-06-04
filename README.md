@@ -20,7 +20,10 @@ Tutto quello che non so, lo voglio conoscere.
     <a href="mailto:"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge"/></a>
 </div>
 
-<div style="margin-bottom: 20px">
+<br />
+<br />
+
+<div>
     <h3>Technology Stack</h3>
     <img align="left" alt="Html" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"/>
     <img align="left" alt="Css" width="30px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"/>
@@ -38,8 +41,9 @@ Tutto quello che non so, lo voglio conoscere.
 </div>
 
 <br />
+<br />
 
-<div style="margin-bottom: 20px">
+<div>
     <h3>GitHub Stats</h3>
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=a-benvenuti&layout=compact&langs_count=8&theme=default" data-canonical-src="https://github.com/a-benvenuti/github-readme-stats">
 </div>
