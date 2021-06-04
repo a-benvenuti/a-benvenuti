@@ -16,7 +16,7 @@ Tutto quello che non so, lo voglio conoscere.
 
 <div align="center" style="margin-bottom: 20px">
     <h3>Contatti</h3>
-    <a href="linkedin.com/in/andrea-benvenuti-915208214"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
+    <a href="#"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?logo=LinkedIn&logoColor=white&style=for-the-badge"/></a>&nbsp;&nbsp;&nbsp;&nbsp;
     <a href="mailto:"><img src="https://img.shields.io/badge/-Gmail-EA4335?logo=Gmail&logoColor=white&style=for-the-badge"/></a>
 </div>
 
