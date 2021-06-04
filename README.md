@@ -1,5 +1,5 @@
 <h1 align="center"> 👋 Sono Andrea </h1>
-<img align="right" src="gif1.gif" width="300">
+<img align="right" src="gif1.gif" width="400">
 
 ---
 
